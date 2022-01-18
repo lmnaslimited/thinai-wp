@@ -1,0 +1,282 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Handmade Furniture",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-61ab21171eee57b44ffb5fdcf7ad8305.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-e99afd52fae7b9c2e4d18768acb50bf5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3 Pro",
+            "screenshot": "screenshots\/home-3-pro.jpg",
+            "source": "templates\/home-3-pro-3d7cb593e27c80b064ba89a871ac7593.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 4 Pro",
+            "screenshot": "screenshots\/home-4-pro.jpg",
+            "source": "templates\/home-4-pro-43ffb3675798a5bdc0b897f92de1c6d8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About 1",
+            "screenshot": "screenshots\/about-1.jpg",
+            "source": "templates\/about-1-bfd33f1181cde2152225af37d7ed1dae.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 2",
+            "screenshot": "screenshots\/about-2.jpg",
+            "source": "templates\/about-2-edc43d6a33d96d4c8f79af42e2ff6ef8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 3 Pro",
+            "screenshot": "screenshots\/about-3-pro.jpg",
+            "source": "templates\/about-3-pro-f87fbadb2539661e07de02247ba17e25.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About 4 Pro",
+            "screenshot": "screenshots\/about-4-pro.jpg",
+            "source": "templates\/about-4-pro-7952c751b17a38bf6bf3ff2150514cd6.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Service 1",
+            "screenshot": "screenshots\/service-1.jpg",
+            "source": "templates\/service-1-89e0e3a6d9ae5f127bd38ff5ce3e5700.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Service 2",
+            "screenshot": "screenshots\/service-2.jpg",
+            "source": "templates\/service-2-87f34418a68b1d61a425e4dce35b37d7.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Service 3 Pro",
+            "screenshot": "screenshots\/service-3-pro.jpg",
+            "source": "templates\/service-3-pro-6fea9492726a3d5986168682c0392cf7.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Service 4 Pro",
+            "screenshot": "screenshots\/service-4-pro.jpg",
+            "source": "templates\/service-4-pro-d8575edc7ca21b1b168714f2623738a8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Collection 1",
+            "screenshot": "screenshots\/collection-1.jpg",
+            "source": "templates\/collection-1-ff1c844aebdefbba0744789c81a2387a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Collections 1",
+            "screenshot": "screenshots\/collections-1.jpg",
+            "source": "templates\/collections-1-c6cd2580f29283048c6b3b4afae94138.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Collection 2 Pro",
+            "screenshot": "screenshots\/collection-2-pro.jpg",
+            "source": "templates\/collection-2-pro-2db79462ee1adae91ab3081e2155e60f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Collections 2 Pro",
+            "screenshot": "screenshots\/collections-2-pro.jpg",
+            "source": "templates\/collections-2-pro-0adbb1ea90d7c40f0ef30939a8934349.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact 1",
+            "screenshot": "screenshots\/contact-1.jpg",
+            "source": "templates\/contact-1-d81613626f5704c659c8375edb4a6668.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 2",
+            "screenshot": "screenshots\/contact-2.jpg",
+            "source": "templates\/contact-2-5f6fd185d2c251e32542ce8f10a3354b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 3 Pro",
+            "screenshot": "screenshots\/contact-3-pro.jpg",
+            "source": "templates\/contact-3-pro-aa91118e693e0069115bc3b83f6f0d1c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact 4 Pro",
+            "screenshot": "screenshots\/contact-4-pro.jpg",
+            "source": "templates\/contact-4-pro-ccd67644119a8e2050a7f011ad43a5fc.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-3d1fd0d88690d72e205d46ff3510f89d.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": []
+}

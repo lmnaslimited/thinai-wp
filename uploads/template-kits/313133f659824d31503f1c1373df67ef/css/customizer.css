@@ -1,0 +1,51 @@
+/* Kit 57 Custom Styling */
+.envato-kit-57-underlay{position: relative !important;}
+.envato-kit-57-overlay{width: 100%; height: 100% !important; position: absolute !important; top: 0; left: 0;}
+/* Gallery Image Effects */
+.envato-kit-57-gallery .elementor-widget-image .elementor-image >a:before,
+.envato-kit-57-gallery .elementor-image-gallery .gallery-item a:before {
+    content: '';
+    width: 100%;
+    height: 100%;
+	  left: 0;
+	  top: 0;
+    z-index: 10;
+    position: absolute;
+	  pointer-events: none;
+	  transition: background 300ms ease-out;
+}
+
+.envato-kit-57-gallery .elementor-widget-image .elementor-image:hover>a:before,
+.envato-kit-57-gallery .elementor-image-gallery .gallery-item:hover a:before{
+    background-color: rgba(0,0,0,0.15);
+}
+
+.envato-kit-57-gallery .elementor-image-gallery .gallery-item div {
+	position: relative;
+}
+
+/* Z-index for hovers */
+.envato-kit-57-z-index-fix .elementor-widget-image .elementor-image:hover {
+	z-index: 1;
+	position: relative;
+}
+
+/* Price List Transparency */
+.envato-kit-57-price-list .elementor-price-list-item .elementor-price-list-header {
+	opacity: 0.8;
+}
+.envato-kit-57-price-list .elementor-price-list-item:hover .elementor-price-list-header {
+	opacity: 1;
+}
+.envato-kit-57-border-radius .elementor-widget-container {
+	border-radius: 5px;
+	overflow: hidden;
+}
+/* Galleries in Text Blocks */
+.envato-kit-57-tab-gallery .gallery{
+	display: flex;
+	align-content: space-between;
+}
+.envato-kit-57-tab-gallery .gallery-item{
+	width: calc(100% / 5);
+}
