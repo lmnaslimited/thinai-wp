@@ -1,0 +1,18 @@
+2022-01-29T12:27:58+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /var/www/html/wordpress/tenants/thinai_html/wp-content/plugins/elementor/includes/template-library/manager.php:457
+Stack trace:
+#0 [internal function]: Elementor\TemplateLibrary\Manager->import_template(Array)
+#1 /var/www/html/wordpress/tenants/thinai_html/wp-content/plugins/elementor/includes/template-library/manager.php(550): call_user_func(Array, Array)
+#2 /var/www/html/wordpress/tenants/thinai_html/wp-content/plugins/elementor/includes/template-library/manager.php(582): Elementor\TemplateLibrary\Manager->handle_ajax_request('import_template', Array)
+#3 [internal function]: Elementor\TemplateLibrary\Manager->Elementor\TemplateLibrary\{closure}(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 /var/www/html/wordpress/tenants/thinai_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Object(Closure), Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 /var/www/html/wordpress/landlord/wp-i in /var/www/html/wordpress/tenants/thinai_html/wp-content/plugins/elementor/includes/template-library/manager.php on line 457
+
+2022-01-29T12:28:05+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /var/www/html/wordpress/tenants/thinai_html/wp-content/plugins/elementor/includes/template-library/manager.php:457
+Stack trace:
+#0 [internal function]: Elementor\TemplateLibrary\Manager->import_template(Array)
+#1 /var/www/html/wordpress/tenants/thinai_html/wp-content/plugins/elementor/includes/template-library/manager.php(550): call_user_func(Array, Array)
+#2 /var/www/html/wordpress/tenants/thinai_html/wp-content/plugins/elementor/includes/template-library/manager.php(582): Elementor\TemplateLibrary\Manager->handle_ajax_request('import_template', Array)
+#3 [internal function]: Elementor\TemplateLibrary\Manager->Elementor\TemplateLibrary\{closure}(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 /var/www/html/wordpress/tenants/thinai_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Object(Closure), Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 /var/www/html/wordpress/landlord/wp-i in /var/www/html/wordpress/tenants/thinai_html/wp-content/plugins/elementor/includes/template-library/manager.php on line 457
+
